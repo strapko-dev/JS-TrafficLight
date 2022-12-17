@@ -1,0 +1,23 @@
+html, body {
+    height: 2000px;
+}
+
+.traffic-light {
+    margin-top: 40px;
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+.traffic-light-red {
+    background-color: red;
+}
+
+.traffic-light-yellow {
+    background-color: yellow;
+}
+
+.traffic-light-green {
+    background-color: green;
+}
